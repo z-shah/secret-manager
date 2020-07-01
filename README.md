@@ -1,6 +1,6 @@
 # Secret-manager
 
-Manage service account keys in secret manager
+Create and store service account keys in secret manager. 
 
 #### Setup 
 
