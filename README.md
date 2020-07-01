@@ -4,7 +4,7 @@ Create and store service account keys in secret manager.
 
 #### Setup 
 
-* Authenticate to the Cloud SDK *
+* Authenticate to the Cloud SDK
 
 ```
 gcloud auth application-default login
